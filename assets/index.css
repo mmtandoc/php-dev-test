@@ -127,3 +127,9 @@ main {
   content: "✓";
   margin-right: 0.4rem;
 }
+
+button {
+  padding: 0.2rem 0.5rem;
+  font-family: inherit;
+  font-size: 0.9rem;
+}

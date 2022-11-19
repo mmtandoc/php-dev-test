@@ -120,6 +120,9 @@ class Checkout extends Layout
                             </div>
                         </div>
                     </div>
+                    <div>
+                        <button class="submit-button" type="submit" title="Place Order">Place Order</button>
+                    </div>
                 </form>
 HTML;
         // @codingStandardsIgnoreEnd
