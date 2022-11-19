@@ -117,3 +117,13 @@ main {
   border: 1px solid #eee;
 }
 
+.beta-notice {
+  display: flex;
+  align-items: baseline;
+  margin-block: 0;
+}
+
+.beta-notice::before {
+  content: "✓";
+  margin-right: 0.4rem;
+}

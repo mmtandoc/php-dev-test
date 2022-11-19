@@ -40,6 +40,12 @@ class Checkout extends Layout
                         </div>
                     </div>
                     <div class="frame">
+                        <p class="beta-notice">
+                            With our “Rise & Shine” beta program, you get early access to new features,
+                            but they may not always work perfectly. You can change your beta preference at any time after you join.
+                        </p>
+                    </div>
+                    <div class="frame">
                         <h2 class="frame__title">Account Details</h2>
                         <div class="frame__contents">
                             <div class="form-field form-field--required">
