@@ -111,3 +111,9 @@ main {
   border-bottom: 1px solid #eee;
   padding: 0.5rem;
 }
+
+.order-summary__product-thumbnail {
+  width: 150px;
+  border: 1px solid #eee;
+}
+
