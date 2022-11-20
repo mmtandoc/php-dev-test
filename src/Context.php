@@ -9,4 +9,8 @@ class Context
     public string $title = '';
 
     public string $content = '';
+
+    // Properties for PostIndex
+    public array $posts = [];
+    public array $authors = [];
 }

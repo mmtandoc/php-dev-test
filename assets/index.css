@@ -133,3 +133,20 @@ button {
   font-family: inherit;
   font-size: 0.9rem;
 }
+
+.post-item {
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid #eee;
+}
+
+.post-item__title-link {
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin-bottom: 0.2rem;
+}
+
+.post-item__author {
+  margin-left: 1rem;
+}
