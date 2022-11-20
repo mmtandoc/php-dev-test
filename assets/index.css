@@ -150,3 +150,18 @@ button {
 .post-item__author {
   margin-left: 1rem;
 }
+
+.post__title {
+  margin-bottom: 0.5rem;
+}
+
+.post__author {
+  margin-left: 1rem;
+  margin-top: 0;
+}
+
+.post__body {
+  margin-inline: 0.2rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid #eee;
+}
